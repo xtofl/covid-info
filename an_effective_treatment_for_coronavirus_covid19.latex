@@ -1,14 +1,20 @@
-# An Effective Treatment for Coronavirus (COVID-19)
+\documentclass{article}
+\usepackage{graphicx}
 
-<span>Presented by: James M. Todaro, MD (Columbia MD, jtodaro2@gmail.com)
-and Gregory J. Rigano, Esq. (grigano1@jhu.edu)</span>
+\begin{document}
 
-**In consultation with Stanford University School of Medicine, UAB
-School of Medicine and National Academy of Sciences researchers.**
+\title{An Effective Treatment for Coronavirus (COVID-19)}
+\author{James M. Todaro, MD (Columbia MD, jtodaro2@gmail.com)}
+\author{Gregory J. Rigano, Esq. (grigano1@jhu.edu)}
+\date{March 13, 2020}
 
-**March 13, 2020**
+\maketitle{}
 
-## Summary
+\emph{In consultation with Stanford University School of Medicine, UAB
+School of Medicine and National Academy of Sciences researchers.}
+
+
+\section{Summary}
 
 Recent guidelines from South Korea and China report that chloroquine
 is an effective antiviral therapeutic treatment against Coronavirus
@@ -21,10 +27,12 @@ be developed. Chloroquine is an inexpensive, globally available drug
 that has been in widespread human use since 1945 against malaria,
 autoimmune and various other conditions.
 
-![chloroquine](chloroquine.png)
-Chloroquine: C<sub>18</sub>H<sub>26</sub>ClN<sub>3</sub>
+\begin{figure}
+\includegraphics{chloroquine.png}
+\caption{Chloroquine: $C_{18}H_{26}ClN_{3}$}
+\end{figure}
 
-## Background
+\section{Background}
 
 The U.S. CDC and World Health Organization have not published
 treatment measures against Coronavirus disease 2019 (“COVID-19”).
@@ -37,21 +45,22 @@ experience. According to former FDA commissioner, board member of
 Pfizer and Illumina, Scott Gotlieb MD, the world can learn the most
 about COVID-19 by paying closest attention to the response of
 countries that have had significant exposure to COVID-19 before the
-U.S. and Europe. [#1]_
+U.S. and Europe. \footnote{https://www.cnbc.com/video/2020/03/02/coronavirus-testing-emergency-room-doctor-cdc-department-health-squawk-box.html}
 
 As per the U.S. CDC, “Chloroquine (also known as chloroquine
 phosphate) is an antimalarial medicine... Chloroquine is available in
 the United States by prescription only... Chloroquine can be prescribed
 for either **prevention or treatment** of malaria. Chloroquine can be
 prescribed to adults and children of all ages. It can also be safely
-taken by pregnant women and nursing mothers.” [2]
+taken by pregnant women and nursing mothers.” \footnote{https://www.cdc.gov/malaria/resources/pdf/fsp/drugs/Chloroquine.pdf}
 
 CDC research also shows that “chloroquine can affect virus infection
 in many ways, and the antiviral effect depends in part on the extent
 to which the virus utilizes endosomes for entry. Chloroquine has been
 widely used to treat human diseases, such as malaria, amoebiosis, HIV,
 and autoimmune diseases, without significant detrimental side
-effects.” [3]
+effects.” \footnote{Vincent, Martin J et al. “Chloroquine is a potent inhibitor of SARS coronavirus infection and spread.” Virology journal vol. 2 69. 22 Aug. 2005, doi:10.1186/1743-422X-2-69 , https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1232869/\#B15. Savarino A, Boelaert JR, Cassone A, Majori G, Cauda R. Effects of chloroquine on viral infections: an old drug against today's diseases? Lancet Infect Dis. 2003;3:722–727. doi: 10.1016/S1473-3099(03)00806-5.}
+
 The treatment guidelines of both South Korea and China against COVID-
 19 are generally consistent, outlining chloroquine as an effective
 treatment.
@@ -78,10 +87,5 @@ screening rounds of thousands of existing drugs. Chloroquine is
 undergoing further trials in more than ten hospitals in Beijing,
 Guangdong province and Hunnan province.” [6]
 
-[1]: https://www.cnbc.com/video/2020/03/02/coronavirus-testing-emergency-room-doctor-cdc-department-health-squawk-box.html
-[2]: https://www.cdc.gov/malaria/resources/pdf/fsp/drugs/Chloroquine.pdf
-[3]: Vincent, Martin J et al. “Chloroquine is a potent inhibitor of SARS
-coronavirus infection and spread.” Virology journal vol. 2 69. 22 Aug. 2005, doi:10.1186/1743-422X-2-69 , https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1232869/#B15. Savarino A, Boelaert JR, Cassone A, Majori G, Cauda R. Effects of chloroquine on viral infections: an old drug against today's diseases? Lancet Infect Dis. 2003;3:722–727. doi: 10.1016/S1473-3099(03)00806-5.
-[4]:
-[5]:
-[6]: 
+
+\end{document}
