@@ -1,0 +1,90 @@
+An Effective Treatment for Coronavirus (COVID-19)
+=================================================
+
+Presented by: James M. Todaro, MD (Columbia MD, jtodaro2@gmail.com) and Gregory J. Rigano, Esq. (grigano1@jhu.edu)
+
+**In consultation with Stanford University School of Medicine, UAB School of Medicine and National Academy of Sciences researchers.**
+
+**March 13, 2020**
+
+Summary
+-------
+
+Recent guidelines from South Korea and China report that chloroquine
+is an effective antiviral therapeutic treatment against Coronavirus
+Disease 2019. Use of chloroquine (tablets) is showing favorable
+outcomes in humans infected with Coronavirus including faster time to
+recovery and shorter hospital stay. US CDC research shows that
+chloroquine also has strong potential as a prophylactic (preventative)
+measure against coronavirus in the lab, while we wait for a vaccine to
+be developed. Chloroquine is an inexpensive, globally available drug
+that has been in widespread human use since 1945 against malaria,
+autoimmune and various other conditions.
+
+.. figure:: chloroquine.png
+   :alt: chloroquine molecule diagram
+
+   Chloroquine: C<sub>18</sub>H<sub>26</sub>ClN<sub>3</sub>
+
+Background
+----------
+
+The U.S. CDC and World Health Organization have not published
+treatment measures against Coronavirus disease 2019 (“COVID-19”).
+Medical centers are starting to have issues with traditional
+protocols. Treatments, and ideally a preventative measure, are needed.
+South Korea and China have had significantly more exposure
+and time to analyze diagnostic, treatment and preventative options.
+The U.S., Europe and the rest of the world can learn from their
+experience. According to former FDA commissioner, board member of
+Pfizer and Illumina, Scott Gotlieb MD, the world can learn the most
+about COVID-19 by paying closest attention to the response of
+countries that have had significant exposure to COVID-19 before the
+U.S. and Europe. [#1]_
+
+As per the U.S. CDC, “Chloroquine (also known as chloroquine
+phosphate) is an antimalarial medicine... Chloroquine is available in
+the United States by prescription only... Chloroquine can be prescribed
+for either **prevention or treatment** of malaria. Chloroquine can be
+prescribed to adults and children of all ages. It can also be safely
+taken by pregnant women and nursing mothers.” [2]
+
+CDC research also shows that “chloroquine can affect virus infection
+in many ways, and the antiviral effect depends in part on the extent
+to which the virus utilizes endosomes for entry. Chloroquine has been
+widely used to treat human diseases, such as malaria, amoebiosis, HIV,
+and autoimmune diseases, without significant detrimental side
+effects.” [3]
+The treatment guidelines of both South Korea and China against COVID-
+19 are generally consistent, outlining chloroquine as an effective
+treatment.
+Specifically, according to the Korea Biomedical Review, in February
+2020 in South Korea, the COVID-19 Central Clinical Task Force,
+composed of physicians and experts treating patients agreed upon
+treatment principles for patients with COVID-19. [4] In China, the
+General Office of the National Health Commission, General Office of
+the State Administration of Traditional Chinese Medicine as well as a
+Multi-Center Collaborative Group of Guangdong Provincial Department of
+Science and Technology and Guangdong Provincial Health Comp and the
+China National Center for Biotechnology Development have established
+effective treatment measures based on human studies. [5]
+According to their research (reported in Clinical Trials Arena),
+“Data from the drug’s [chloroquine] studies showed ‘certain curative
+effect’ with ‘fairly good efficacy’ ... patients treated with
+chloroquine demonstrated a better drop in fever, improvement of lung
+CT images, and required a shorter time to recover compared to parallel
+groups. The percentage of patients with negative viral nucleic acid
+tests was also higher with the anti-malarial drug... Chloroquine has so
+far shown no obvious serious adverse reactions in more than 100
+participants in the trials... Chloroquine was selected after several
+screening rounds of thousands of existing drugs. Chloroquine is
+undergoing further trials in more than ten hospitals in Beijing,
+Guangdong province and Hunnan province.” [6]
+
+[1]: https://www.cnbc.com/video/2020/03/02/coronavirus-testing-emergency-room-doctor-cdc-department-health-squawk-box.html
+[2]: https://www.cdc.gov/malaria/resources/pdf/fsp/drugs/Chloroquine.pdf
+[3]: Vincent, Martin J et al. “Chloroquine is a potent inhibitor of SARS
+coronavirus infection and spread.” Virology journal vol. 2 69. 22 Aug. 2005, doi:10.1186/1743-422X-2-69 , https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1232869/#B15. Savarino A, Boelaert JR, Cassone A, Majori G, Cauda R. Effects of chloroquine on viral infections: an old drug against today's diseases? Lancet Infect Dis. 2003;3:722–727. doi: 10.1016/S1473-3099(03)00806-5.
+[4]:
+[5]:
+[6]: 
